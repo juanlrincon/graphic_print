@@ -1,0 +1,1498 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# No version information was available in the source files.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2010-03-10 17:08+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\departamentos_controller.php:19;40;78;98
+msgid "Invalid Departamento"
+msgstr ""
+
+#: \controllers\departamentos_controller.php:30;45;88;103
+msgid "The Departamento has been saved"
+msgstr ""
+
+#: \controllers\departamentos_controller.php:33;48;91;106
+msgid "The Departamento could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\departamentos_controller.php:58;116
+msgid "Invalid id for Departamento"
+msgstr ""
+
+#: \controllers\departamentos_controller.php:63;120
+msgid "Departamento deleted"
+msgstr ""
+
+#: \controllers\departamentos_controller.php:66;123
+msgid "The Departamento could not be deleted. Please, try again."
+msgstr ""
+
+#: \controllers\estados_controller.php:19;51;100;122
+msgid "Invalid Estado"
+msgstr ""
+
+#: \controllers\estados_controller.php:30;56;110;127
+msgid "The Estado has been saved"
+msgstr ""
+
+#: \controllers\estados_controller.php:33;59;113;130
+msgid "The Estado could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\estados_controller.php:80;142
+msgid "Invalid id for Estado"
+msgstr ""
+
+#: \controllers\estados_controller.php:85;146
+msgid "Estado deleted"
+msgstr ""
+
+#: \controllers\estados_controller.php:88;149
+msgid "The Estado could not be deleted. Please, try again."
+msgstr ""
+
+#: \controllers\grupos_controller.php:22;43;81;101
+msgid "Invalid Grupo"
+msgstr ""
+
+#: \controllers\grupos_controller.php:33;48;91;106
+msgid "The Grupo has been saved"
+msgstr ""
+
+#: \controllers\grupos_controller.php:36;51;94;109
+msgid "The Grupo could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\grupos_controller.php:61;119
+msgid "Invalid id for Grupo"
+msgstr ""
+
+#: \controllers\grupos_controller.php:66;123
+msgid "Grupo deleted"
+msgstr ""
+
+#: \controllers\grupos_controller.php:69;126
+msgid "The Grupo could not be deleted. Please, try again."
+msgstr ""
+
+#: \controllers\paises_controller.php:19;39;76;96
+msgid "Invalid Pais"
+msgstr ""
+
+#: \controllers\paises_controller.php:29;44;86;101
+msgid "The Pais has been saved"
+msgstr ""
+
+#: \controllers\paises_controller.php:32;47;89;104
+msgid "The Pais could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\paises_controller.php:57;114
+msgid "Invalid id for Pais"
+msgstr ""
+
+#: \controllers\paises_controller.php:61;118
+msgid "Pais deleted"
+msgstr ""
+
+#: \controllers\paises_controller.php:64;121
+msgid "The Pais could not be deleted. Please, try again."
+msgstr ""
+
+#: \controllers\plazas_controller.php:20;40;77;97
+msgid "Invalid Plaza"
+msgstr ""
+
+#: \controllers\plazas_controller.php:30;45;87;102
+msgid "The Plaza has been saved"
+msgstr ""
+
+#: \controllers\plazas_controller.php:33;48;90;105
+msgid "The Plaza could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\plazas_controller.php:58;115
+msgid "Invalid id for Plaza"
+msgstr ""
+
+#: \controllers\plazas_controller.php:62;119
+msgid "Plaza deleted"
+msgstr ""
+
+#: \controllers\plazas_controller.php:65;122
+msgid "The Plaza could not be deleted. Please, try again."
+msgstr ""
+
+#: \controllers\puestos_controller.php:20;41;79;99
+msgid "Invalid Puesto"
+msgstr ""
+
+#: \controllers\puestos_controller.php:31;46;89;104
+msgid "The Puesto has been saved"
+msgstr ""
+
+#: \controllers\puestos_controller.php:34;49;92;107
+msgid "The Puesto could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\puestos_controller.php:59;117
+msgid "Invalid id for Puesto"
+msgstr ""
+
+#: \controllers\puestos_controller.php:64;121
+msgid "Puesto deleted"
+msgstr ""
+
+#: \controllers\puestos_controller.php:67;124
+msgid "The Puesto could not be deleted. Please, try again."
+msgstr ""
+
+#: \controllers\usuarios_controller.php:39;108;194;219
+msgid "Invalid Usuario"
+msgstr ""
+
+#: \controllers\usuarios_controller.php:52;114;204;224
+msgid "The Usuario has been saved"
+msgstr ""
+
+#: \controllers\usuarios_controller.php:55;117;207;227
+msgid "The Usuario could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\usuarios_controller.php:173;242
+msgid "Invalid id for Usuario"
+msgstr ""
+
+#: \controllers\usuarios_controller.php:178;246
+msgid "Usuario deleted"
+msgstr ""
+
+#: \controllers\usuarios_controller.php:181;249
+msgid "The Usuario could not be deleted. Please, try again."
+msgstr ""
+
+#: \views\departamentos\add.ctp:4
+#: \views\departamentos\admin_add.ctp:4
+msgid "Add Departamento"
+msgstr ""
+
+#: \views\departamentos\add.ctp:13
+#: \views\departamentos\admin_add.ctp:14
+#: \views\departamentos\admin_edit.ctp:16
+#: \views\departamentos\admin_view.ctp:25
+#: \views\departamentos\edit.ctp:16
+#: \views\departamentos\view.ctp:25
+#: \views\usuarios\add.ctp:15;58
+#: \views\usuarios\admin_add.ctp:46
+#: \views\usuarios\admin_edit.ctp:48
+#: \views\usuarios\admin_index.ctp:169
+#: \views\usuarios\admin_view.ctp:174
+#: \views\usuarios\edit.ctp:48
+#: \views\usuarios\index.ctp:165
+#: \views\usuarios\view.ctp:170
+msgid "List Departamentos"
+msgstr ""
+
+#: \views\departamentos\add.ctp:14
+#: \views\departamentos\admin_add.ctp:15
+#: \views\departamentos\admin_edit.ctp:17
+#: \views\departamentos\admin_index.ctp:51
+#: \views\departamentos\admin_view.ctp:27
+#: \views\departamentos\edit.ctp:17
+#: \views\departamentos\index.ctp:43
+#: \views\departamentos\view.ctp:27
+#: \views\grupos\add.ctp:14
+#: \views\grupos\admin_add.ctp:14
+#: \views\grupos\admin_edit.ctp:16
+#: \views\grupos\admin_index.ctp:55
+#: \views\grupos\admin_view.ctp:32
+#: \views\grupos\edit.ctp:16
+#: \views\grupos\index.ctp:55
+#: \views\grupos\view.ctp:27
+#: \views\plazas\add.ctp:16
+#: \views\plazas\admin_add.ctp:17
+#: \views\plazas\admin_edit.ctp:19
+#: \views\plazas\admin_index.ctp:53
+#: \views\plazas\admin_view.ctp:29
+#: \views\plazas\edit.ctp:19
+#: \views\plazas\index.ctp:53
+#: \views\plazas\view.ctp:29
+#: \views\puestos\add.ctp:15
+#: \views\puestos\admin_add.ctp:15
+#: \views\puestos\admin_edit.ctp:17
+#: \views\puestos\admin_index.ctp:51
+#: \views\puestos\admin_view.ctp:27
+#: \views\puestos\edit.ctp:17
+#: \views\puestos\index.ctp:47
+#: \views\puestos\view.ctp:17
+#: \views\usuarios\add.ctp:55
+#: \views\usuarios\admin_add.ctp:43
+#: \views\usuarios\admin_edit.ctp:45
+#: \views\usuarios\admin_view.ctp:170
+#: \views\usuarios\edit.ctp:45
+#: \views\usuarios\view.ctp:166
+msgid "List Usuarios"
+msgstr ""
+
+#: \views\departamentos\add.ctp:15
+#: \views\departamentos\admin_add.ctp:16
+#: \views\departamentos\admin_edit.ctp:18
+#: \views\departamentos\admin_index.ctp:52
+#: \views\departamentos\admin_view.ctp:28;123
+#: \views\departamentos\edit.ctp:18
+#: \views\departamentos\index.ctp:44
+#: \views\departamentos\view.ctp:28;123
+#: \views\grupos\add.ctp:15
+#: \views\grupos\admin_add.ctp:15
+#: \views\grupos\admin_edit.ctp:17
+#: \views\grupos\admin_index.ctp:56
+#: \views\grupos\admin_view.ctp:33;128
+#: \views\grupos\edit.ctp:17
+#: \views\grupos\index.ctp:56
+#: \views\grupos\view.ctp:28;123
+#: \views\plazas\add.ctp:17
+#: \views\plazas\admin_add.ctp:18
+#: \views\plazas\admin_edit.ctp:20
+#: \views\plazas\admin_index.ctp:54
+#: \views\plazas\admin_view.ctp:30;207
+#: \views\plazas\edit.ctp:20
+#: \views\plazas\index.ctp:54
+#: \views\plazas\view.ctp:30;207
+#: \views\puestos\add.ctp:16
+#: \views\puestos\admin_add.ctp:16
+#: \views\puestos\admin_edit.ctp:18
+#: \views\puestos\admin_index.ctp:52
+#: \views\puestos\admin_view.ctp:28;123
+#: \views\puestos\edit.ctp:18
+#: \views\puestos\index.ctp:48
+#: \views\puestos\view.ctp:18;111
+#: \views\usuarios\admin_index.ctp:166
+#: \views\usuarios\admin_view.ctp:171
+#: \views\usuarios\index.ctp:162
+#: \views\usuarios\view.ctp:167
+msgid "New Usuario"
+msgstr ""
+
+#: \views\departamentos\admin_edit.ctp:4
+#: \views\departamentos\admin_view.ctp:23
+#: \views\departamentos\edit.ctp:4
+#: \views\departamentos\view.ctp:23
+msgid "Edit Departamento"
+msgstr ""
+
+#: \views\departamentos\admin_edit.ctp:15
+#: \views\departamentos\admin_index.ctp:37
+#: \views\departamentos\admin_view.ctp:114
+#: \views\departamentos\edit.ctp:15
+#: \views\departamentos\index.ctp:29
+#: \views\departamentos\view.ctp:114
+#: \views\estados\admin_edit.ctp:18
+#: \views\estados\admin_index.ctp:57
+#: \views\estados\admin_view.ctp:93
+#: \views\estados\edit.ctp:18
+#: \views\estados\index.ctp:49
+#: \views\estados\view.ctp:93
+#: \views\grupos\admin_edit.ctp:14
+#: \views\grupos\admin_index.ctp:41
+#: \views\grupos\admin_view.ctp:119
+#: \views\grupos\edit.ctp:14
+#: \views\grupos\index.ctp:41
+#: \views\grupos\view.ctp:114
+#: \views\paises\admin_edit.ctp:17
+#: \views\paises\admin_index.ctp:53
+#: \views\paises\admin_view.ctp:86
+#: \views\paises\edit.ctp:17
+#: \views\paises\index.ctp:53
+#: \views\paises\view.ctp:86
+#: \views\plazas\admin_edit.ctp:15
+#: \views\plazas\admin_index.ctp:37
+#: \views\plazas\admin_view.ctp:102;198
+#: \views\plazas\edit.ctp:15
+#: \views\plazas\index.ctp:37
+#: \views\plazas\view.ctp:102;198
+#: \views\puestos\admin_edit.ctp:15
+#: \views\puestos\admin_index.ctp:37
+#: \views\puestos\admin_view.ctp:114
+#: \views\puestos\edit.ctp:15
+#: \views\puestos\index.ctp:33
+#: \views\puestos\view.ctp:102
+#: \views\usuarios\admin_edit.ctp:44
+#: \views\usuarios\admin_index.ctp:153
+#: \views\usuarios\edit.ctp:44
+#: \views\usuarios\index.ctp:149
+msgid "Delete"
+msgstr ""
+
+#: \views\departamentos\admin_edit.ctp:15
+#: \views\departamentos\admin_index.ctp:37
+#: \views\departamentos\admin_view.ctp:24;114
+#: \views\departamentos\edit.ctp:15
+#: \views\departamentos\index.ctp:29
+#: \views\departamentos\view.ctp:24;114
+#: \views\estados\admin_edit.ctp:18
+#: \views\estados\admin_index.ctp:57
+#: \views\estados\admin_view.ctp:49;93
+#: \views\estados\edit.ctp:18
+#: \views\estados\index.ctp:49
+#: \views\estados\view.ctp:49;93
+#: \views\grupos\admin_edit.ctp:14
+#: \views\grupos\admin_index.ctp:41
+#: \views\grupos\admin_view.ctp:29;119
+#: \views\grupos\edit.ctp:14
+#: \views\grupos\index.ctp:41
+#: \views\grupos\view.ctp:24;114
+#: \views\paises\admin_edit.ctp:17
+#: \views\paises\admin_index.ctp:53
+#: \views\paises\admin_view.ctp:44;86
+#: \views\paises\edit.ctp:17
+#: \views\paises\index.ctp:53
+#: \views\paises\view.ctp:44;86
+#: \views\plazas\admin_edit.ctp:15
+#: \views\plazas\admin_index.ctp:37
+#: \views\plazas\admin_view.ctp:24;102;198
+#: \views\plazas\edit.ctp:15
+#: \views\plazas\index.ctp:37
+#: \views\plazas\view.ctp:24;102;198
+#: \views\puestos\admin_edit.ctp:15
+#: \views\puestos\admin_index.ctp:37
+#: \views\puestos\admin_view.ctp:24;114
+#: \views\puestos\edit.ctp:15
+#: \views\puestos\index.ctp:33
+#: \views\puestos\view.ctp:14;102
+#: \views\usuarios\admin_edit.ctp:44
+#: \views\usuarios\admin_index.ctp:153
+#: \views\usuarios\admin_view.ctp:169
+#: \views\usuarios\edit.ctp:44
+#: \views\usuarios\index.ctp:149
+#: \views\usuarios\view.ctp:165
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:2
+#: \views\departamentos\index.ctp:2
+msgid "Departamentos"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:6
+#: \views\departamentos\index.ctp:6
+#: \views\estados\admin_index.ctp:6
+#: \views\estados\index.ctp:6
+#: \views\grupos\admin_index.ctp:6
+#: \views\grupos\index.ctp:6
+#: \views\paises\admin_index.ctp:6
+#: \views\paises\index.ctp:6
+#: \views\plazas\admin_index.ctp:6
+#: \views\plazas\index.ctp:6
+#: \views\puestos\admin_index.ctp:6
+#: \views\puestos\index.ctp:6
+#: \views\usuarios\admin_index.ctp:6
+#: \views\usuarios\index.ctp:6
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:14
+#: \views\departamentos\admin_view.ctp:68
+#: \views\departamentos\index.ctp:12
+#: \views\departamentos\view.ctp:68
+#: \views\estados\admin_index.ctp:19
+#: \views\estados\admin_view.ctp:71
+#: \views\estados\index.ctp:17
+#: \views\estados\view.ctp:71
+#: \views\grupos\admin_index.ctp:15
+#: \views\grupos\admin_view.ctp:73
+#: \views\grupos\index.ctp:15
+#: \views\grupos\view.ctp:68
+#: \views\paises\admin_index.ctp:18
+#: \views\paises\admin_view.ctp:64
+#: \views\paises\index.ctp:18
+#: \views\paises\view.ctp:64
+#: \views\plazas\admin_index.ctp:14
+#: \views\plazas\admin_view.ctp:63;152
+#: \views\plazas\index.ctp:14
+#: \views\plazas\view.ctp:63;152
+#: \views\puestos\admin_index.ctp:14
+#: \views\puestos\admin_view.ctp:68
+#: \views\puestos\index.ctp:13
+#: \views\puestos\view.ctp:57
+#: \views\usuarios\admin_index.ctp:43
+#: \views\usuarios\index.ctp:42
+msgid "Actions"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:35
+#: \views\departamentos\admin_view.ctp:112
+#: \views\departamentos\index.ctp:27
+#: \views\departamentos\view.ctp:112
+#: \views\estados\admin_index.ctp:55
+#: \views\estados\admin_view.ctp:91
+#: \views\estados\index.ctp:47
+#: \views\estados\view.ctp:91
+#: \views\grupos\admin_index.ctp:39
+#: \views\grupos\admin_view.ctp:117
+#: \views\grupos\index.ctp:39
+#: \views\grupos\view.ctp:112
+#: \views\paises\admin_index.ctp:51
+#: \views\paises\admin_view.ctp:84
+#: \views\paises\index.ctp:51
+#: \views\paises\view.ctp:84
+#: \views\plazas\admin_index.ctp:35
+#: \views\plazas\admin_view.ctp:100;196
+#: \views\plazas\index.ctp:35
+#: \views\plazas\view.ctp:100;196
+#: \views\puestos\admin_index.ctp:35
+#: \views\puestos\admin_view.ctp:112
+#: \views\puestos\index.ctp:31
+#: \views\puestos\view.ctp:100
+#: \views\usuarios\admin_index.ctp:151
+#: \views\usuarios\index.ctp:147
+msgid "View"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:36
+#: \views\departamentos\admin_view.ctp:113
+#: \views\departamentos\index.ctp:28
+#: \views\departamentos\view.ctp:113
+#: \views\estados\admin_index.ctp:56
+#: \views\estados\admin_view.ctp:92
+#: \views\estados\index.ctp:48
+#: \views\estados\view.ctp:92
+#: \views\grupos\admin_index.ctp:40
+#: \views\grupos\admin_view.ctp:118
+#: \views\grupos\index.ctp:40
+#: \views\grupos\view.ctp:113
+#: \views\paises\admin_index.ctp:52
+#: \views\paises\admin_view.ctp:85
+#: \views\paises\index.ctp:52
+#: \views\paises\view.ctp:85
+#: \views\plazas\admin_index.ctp:36
+#: \views\plazas\admin_view.ctp:101;197
+#: \views\plazas\index.ctp:36
+#: \views\plazas\view.ctp:101;197
+#: \views\puestos\admin_index.ctp:36
+#: \views\puestos\admin_view.ctp:113
+#: \views\puestos\index.ctp:32
+#: \views\puestos\view.ctp:101
+#: \views\usuarios\admin_index.ctp:152
+#: \views\usuarios\index.ctp:148
+msgid "Edit"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:44
+#: \views\departamentos\index.ctp:36
+#: \views\estados\admin_index.ctp:64
+#: \views\estados\index.ctp:56
+#: \views\grupos\admin_index.ctp:48
+#: \views\grupos\index.ctp:48
+#: \views\paises\admin_index.ctp:60
+#: \views\paises\index.ctp:60
+#: \views\plazas\admin_index.ctp:44
+#: \views\plazas\index.ctp:44
+#: \views\puestos\admin_index.ctp:44
+#: \views\puestos\index.ctp:40
+#: \views\usuarios\admin_index.ctp:160
+#: \views\usuarios\index.ctp:156
+msgid "previous"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:46
+#: \views\departamentos\index.ctp:38
+#: \views\estados\admin_index.ctp:66
+#: \views\estados\index.ctp:58
+#: \views\grupos\admin_index.ctp:50
+#: \views\grupos\index.ctp:50
+#: \views\paises\admin_index.ctp:62
+#: \views\paises\index.ctp:62
+#: \views\plazas\admin_index.ctp:46
+#: \views\plazas\index.ctp:46
+#: \views\puestos\admin_index.ctp:46
+#: \views\puestos\index.ctp:42
+#: \views\usuarios\admin_index.ctp:162
+#: \views\usuarios\index.ctp:158
+msgid "next"
+msgstr ""
+
+#: \views\departamentos\admin_index.ctp:50
+#: \views\departamentos\admin_view.ctp:26
+#: \views\departamentos\index.ctp:42
+#: \views\departamentos\view.ctp:26
+#: \views\usuarios\add.ctp:13;59
+#: \views\usuarios\admin_add.ctp:47
+#: \views\usuarios\admin_edit.ctp:49
+#: \views\usuarios\admin_index.ctp:170
+#: \views\usuarios\admin_view.ctp:175
+#: \views\usuarios\edit.ctp:49
+#: \views\usuarios\index.ctp:166
+#: \views\usuarios\view.ctp:171
+msgid "New Departamento"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:2
+#: \views\departamentos\view.ctp:2
+#: \views\usuarios\admin_view.ctp:24
+#: \views\usuarios\view.ctp:24
+msgid "Departamento"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:4;36
+#: \views\departamentos\view.ctp:4;36
+#: \views\estados\admin_view.ctp:4;63
+#: \views\estados\view.ctp:4;63
+#: \views\grupos\admin_view.ctp:4;41
+#: \views\grupos\view.ctp:36
+#: \views\paises\admin_view.ctp:4;56
+#: \views\paises\view.ctp:4;56
+#: \views\plazas\admin_view.ctp:4;38;120
+#: \views\plazas\view.ctp:4;38;120
+#: \views\puestos\admin_view.ctp:4;36
+#: \views\puestos\view.ctp:26
+#: \views\usuarios\admin_view.ctp:4
+#: \views\usuarios\view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:9;44
+#: \views\departamentos\view.ctp:9;44
+#: \views\grupos\admin_view.ctp:9;49
+#: \views\grupos\view.ctp:4;44
+#: \views\plazas\admin_view.ctp:9;128
+#: \views\plazas\view.ctp:9;128
+#: \views\puestos\admin_view.ctp:9;44
+#: \views\puestos\view.ctp:4;33
+#: \views\usuarios\admin_view.ctp:44
+#: \views\usuarios\view.ctp:44
+msgid "Nombre"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:14;67
+#: \views\departamentos\view.ctp:14;67
+#: \views\estados\admin_view.ctp:39;70
+#: \views\estados\view.ctp:39;70
+#: \views\grupos\admin_view.ctp:72
+#: \views\grupos\view.ctp:67
+#: \views\paises\admin_view.ctp:34;63
+#: \views\paises\view.ctp:34;63
+#: \views\plazas\admin_view.ctp:14;151
+#: \views\plazas\view.ctp:14;151
+#: \views\puestos\admin_view.ctp:14;67
+#: \views\puestos\view.ctp:56
+#: \views\usuarios\admin_view.ctp:159
+#: \views\usuarios\view.ctp:159
+msgid "Estatus"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:24
+#: \views\departamentos\view.ctp:24
+msgid "Delete Departamento"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:32
+#: \views\departamentos\view.ctp:32
+#: \views\grupos\admin_view.ctp:37
+#: \views\grupos\view.ctp:32
+#: \views\plazas\admin_view.ctp:116
+#: \views\plazas\view.ctp:116
+#: \views\puestos\admin_view.ctp:32
+#: \views\puestos\view.ctp:22
+msgid "Related Usuarios"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:37
+#: \views\departamentos\view.ctp:37
+#: \views\grupos\admin_view.ctp:42
+#: \views\grupos\view.ctp:37
+#: \views\plazas\admin_view.ctp:121
+#: \views\plazas\view.ctp:121
+#: \views\puestos\admin_view.ctp:37
+#: \views\puestos\view.ctp:27
+#: \views\usuarios\admin_view.ctp:9
+#: \views\usuarios\view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:38
+#: \views\departamentos\view.ctp:38
+#: \views\grupos\admin_view.ctp:43
+#: \views\grupos\view.ctp:38
+#: \views\plazas\admin_view.ctp:122
+#: \views\plazas\view.ctp:122
+#: \views\puestos\admin_view.ctp:38
+#: \views\usuarios\admin_view.ctp:14
+#: \views\usuarios\view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:39
+#: \views\departamentos\view.ctp:39
+#: \views\grupos\admin_view.ctp:44
+#: \views\grupos\view.ctp:39
+#: \views\plazas\admin_view.ctp:123
+#: \views\plazas\view.ctp:123
+#: \views\puestos\admin_view.ctp:39
+#: \views\puestos\view.ctp:28
+msgid "Puesto Id"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:40
+#: \views\departamentos\view.ctp:40
+#: \views\grupos\admin_view.ctp:45
+#: \views\grupos\view.ctp:40
+#: \views\plazas\admin_view.ctp:124
+#: \views\plazas\view.ctp:124
+#: \views\puestos\admin_view.ctp:40
+#: \views\puestos\view.ctp:29
+msgid "Departamento Id"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:41
+#: \views\departamentos\view.ctp:41
+#: \views\grupos\admin_view.ctp:46
+#: \views\grupos\view.ctp:41
+#: \views\plazas\admin_view.ctp:42;125
+#: \views\plazas\view.ctp:42;125
+#: \views\puestos\admin_view.ctp:41
+#: \views\puestos\view.ctp:30
+msgid "Plaza Id"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:42
+#: \views\departamentos\view.ctp:42
+#: \views\grupos\admin_view.ctp:47
+#: \views\grupos\view.ctp:42
+#: \views\plazas\admin_view.ctp:126
+#: \views\plazas\view.ctp:126
+#: \views\puestos\admin_view.ctp:42
+#: \views\puestos\view.ctp:31
+msgid "Grupo Id"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:43
+#: \views\departamentos\view.ctp:43
+#: \views\grupos\admin_view.ctp:48
+#: \views\grupos\view.ctp:43
+#: \views\plazas\admin_view.ctp:127
+#: \views\plazas\view.ctp:127
+#: \views\puestos\admin_view.ctp:43
+#: \views\puestos\view.ctp:32
+#: \views\usuarios\admin_view.ctp:39
+#: \views\usuarios\view.ctp:39
+msgid "Titulo"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:45
+#: \views\departamentos\view.ctp:45
+#: \views\grupos\admin_view.ctp:50
+#: \views\grupos\view.ctp:45
+#: \views\plazas\admin_view.ctp:129
+#: \views\plazas\view.ctp:129
+#: \views\puestos\admin_view.ctp:45
+#: \views\puestos\view.ctp:34
+#: \views\usuarios\admin_view.ctp:49
+#: \views\usuarios\view.ctp:49
+msgid "Ap Paterno"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:46
+#: \views\departamentos\view.ctp:46
+#: \views\grupos\admin_view.ctp:51
+#: \views\grupos\view.ctp:46
+#: \views\plazas\admin_view.ctp:130
+#: \views\plazas\view.ctp:130
+#: \views\puestos\admin_view.ctp:46
+#: \views\puestos\view.ctp:35
+#: \views\usuarios\admin_view.ctp:54
+#: \views\usuarios\view.ctp:54
+msgid "Ap Materno"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:47
+#: \views\departamentos\view.ctp:47
+#: \views\grupos\admin_view.ctp:52
+#: \views\grupos\view.ctp:47
+#: \views\plazas\admin_view.ctp:54;131
+#: \views\plazas\view.ctp:54;131
+#: \views\puestos\admin_view.ctp:47
+#: \views\puestos\view.ctp:36
+#: \views\usuarios\admin_view.ctp:59
+#: \views\usuarios\view.ctp:59
+msgid "Calle"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:48
+#: \views\departamentos\view.ctp:48
+#: \views\grupos\admin_view.ctp:53
+#: \views\grupos\view.ctp:48
+#: \views\plazas\admin_view.ctp:53;132
+#: \views\plazas\view.ctp:53;132
+#: \views\puestos\admin_view.ctp:48
+#: \views\puestos\view.ctp:37
+#: \views\usuarios\admin_view.ctp:64
+#: \views\usuarios\view.ctp:64
+msgid "No Ext"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:49
+#: \views\departamentos\view.ctp:49
+#: \views\grupos\admin_view.ctp:54
+#: \views\grupos\view.ctp:49
+#: \views\plazas\admin_view.ctp:57;133
+#: \views\plazas\view.ctp:57;133
+#: \views\puestos\admin_view.ctp:49
+#: \views\puestos\view.ctp:38
+#: \views\usuarios\admin_view.ctp:69
+#: \views\usuarios\view.ctp:69
+msgid "No Int"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:50
+#: \views\departamentos\view.ctp:50
+#: \views\grupos\admin_view.ctp:55
+#: \views\grupos\view.ctp:50
+#: \views\plazas\admin_view.ctp:51;134
+#: \views\plazas\view.ctp:51;134
+#: \views\puestos\admin_view.ctp:50
+#: \views\puestos\view.ctp:39
+#: \views\usuarios\admin_view.ctp:74
+#: \views\usuarios\view.ctp:74
+msgid "Colonia"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:51
+#: \views\departamentos\view.ctp:51
+#: \views\estados\admin_view.ctp:64
+#: \views\estados\view.ctp:64
+#: \views\grupos\admin_view.ctp:56
+#: \views\grupos\view.ctp:51
+#: \views\plazas\admin_view.ctp:58;135
+#: \views\plazas\view.ctp:58;135
+#: \views\puestos\admin_view.ctp:51
+#: \views\puestos\view.ctp:40
+#: \views\usuarios\admin_view.ctp:79
+#: \views\usuarios\view.ctp:79
+msgid "Ciudad"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:52
+#: \views\departamentos\view.ctp:52
+#: \views\grupos\admin_view.ctp:57
+#: \views\grupos\view.ctp:52
+#: \views\plazas\admin_view.ctp:55;136
+#: \views\plazas\view.ctp:55;136
+#: \views\puestos\admin_view.ctp:52
+#: \views\puestos\view.ctp:41
+#: \views\usuarios\admin_view.ctp:84
+#: \views\usuarios\view.ctp:84
+msgid "Codigo Postal"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:53
+#: \views\departamentos\view.ctp:53
+#: \views\estados\admin_view.ctp:2;9
+#: \views\estados\view.ctp:2;9
+#: \views\grupos\admin_view.ctp:58
+#: \views\grupos\view.ctp:53
+#: \views\paises\admin_view.ctp:57
+#: \views\paises\view.ctp:57
+#: \views\plazas\admin_view.ctp:59;137
+#: \views\plazas\view.ctp:59;137
+#: \views\puestos\admin_view.ctp:53
+#: \views\puestos\view.ctp:42
+#: \views\usuarios\admin_view.ctp:89
+#: \views\usuarios\view.ctp:89
+msgid "Estado"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:54
+#: \views\departamentos\view.ctp:54
+#: \views\grupos\admin_view.ctp:59
+#: \views\grupos\view.ctp:54
+#: \views\plazas\admin_view.ctp:138
+#: \views\plazas\view.ctp:138
+#: \views\puestos\admin_view.ctp:54
+#: \views\puestos\view.ctp:43
+#: \views\usuarios\admin_view.ctp:94
+#: \views\usuarios\view.ctp:94
+msgid "Email Personal"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:55
+#: \views\departamentos\view.ctp:55
+#: \views\grupos\admin_view.ctp:60
+#: \views\grupos\view.ctp:55
+#: \views\plazas\admin_view.ctp:139
+#: \views\plazas\view.ctp:139
+#: \views\puestos\admin_view.ctp:55
+#: \views\puestos\view.ctp:44
+#: \views\usuarios\admin_view.ctp:99
+#: \views\usuarios\view.ctp:99
+msgid "Email Empresa"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:56
+#: \views\departamentos\view.ctp:56
+#: \views\grupos\admin_view.ctp:61
+#: \views\grupos\view.ctp:56
+#: \views\plazas\admin_view.ctp:140
+#: \views\plazas\view.ctp:140
+#: \views\puestos\admin_view.ctp:56
+#: \views\puestos\view.ctp:45
+#: \views\usuarios\admin_view.ctp:104
+#: \views\usuarios\view.ctp:104
+msgid "Telefono1"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:57
+#: \views\departamentos\view.ctp:57
+#: \views\grupos\admin_view.ctp:62
+#: \views\grupos\view.ctp:57
+#: \views\plazas\admin_view.ctp:141
+#: \views\plazas\view.ctp:141
+#: \views\puestos\admin_view.ctp:57
+#: \views\puestos\view.ctp:46
+#: \views\usuarios\admin_view.ctp:109
+#: \views\usuarios\view.ctp:109
+msgid "Telefono2"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:58
+#: \views\departamentos\view.ctp:58
+#: \views\grupos\admin_view.ctp:63
+#: \views\grupos\view.ctp:58
+#: \views\plazas\admin_view.ctp:142
+#: \views\plazas\view.ctp:142
+#: \views\puestos\admin_view.ctp:58
+#: \views\puestos\view.ctp:47
+#: \views\usuarios\admin_view.ctp:114
+#: \views\usuarios\view.ctp:114
+msgid "Celular"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:59
+#: \views\departamentos\view.ctp:59
+#: \views\grupos\admin_view.ctp:64
+#: \views\grupos\view.ctp:59
+#: \views\plazas\admin_view.ctp:143
+#: \views\plazas\view.ctp:143
+#: \views\puestos\admin_view.ctp:59
+#: \views\puestos\view.ctp:48
+#: \views\usuarios\admin_view.ctp:119
+#: \views\usuarios\view.ctp:119
+msgid "Nextel"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:60
+#: \views\departamentos\view.ctp:60
+#: \views\grupos\admin_view.ctp:65
+#: \views\grupos\view.ctp:60
+#: \views\plazas\admin_view.ctp:144
+#: \views\plazas\view.ctp:144
+#: \views\puestos\admin_view.ctp:60
+#: \views\puestos\view.ctp:49
+#: \views\usuarios\admin_view.ctp:124
+#: \views\usuarios\view.ctp:124
+msgid "Fecha Nacimiento"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:61
+#: \views\departamentos\view.ctp:61
+#: \views\grupos\admin_view.ctp:66
+#: \views\grupos\view.ctp:61
+#: \views\plazas\admin_view.ctp:145
+#: \views\plazas\view.ctp:145
+#: \views\puestos\admin_view.ctp:61
+#: \views\puestos\view.ctp:50
+#: \views\usuarios\admin_view.ctp:129
+#: \views\usuarios\view.ctp:129
+msgid "Fotografia"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:62
+#: \views\departamentos\view.ctp:62
+#: \views\grupos\admin_view.ctp:67
+#: \views\grupos\view.ctp:62
+#: \views\plazas\admin_view.ctp:146
+#: \views\plazas\view.ctp:146
+#: \views\puestos\admin_view.ctp:62
+#: \views\puestos\view.ctp:51
+#: \views\usuarios\admin_view.ctp:134
+#: \views\usuarios\view.ctp:134
+msgid "Notas"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:63
+#: \views\departamentos\view.ctp:63
+#: \views\grupos\admin_view.ctp:68
+#: \views\grupos\view.ctp:63
+#: \views\plazas\admin_view.ctp:147
+#: \views\plazas\view.ctp:147
+#: \views\puestos\admin_view.ctp:63
+#: \views\puestos\view.ctp:52
+#: \views\usuarios\admin_view.ctp:139
+#: \views\usuarios\view.ctp:139
+msgid "No Empleado"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:64
+#: \views\departamentos\view.ctp:64
+#: \views\grupos\admin_view.ctp:69
+#: \views\grupos\view.ctp:64
+#: \views\plazas\admin_view.ctp:148
+#: \views\plazas\view.ctp:148
+#: \views\puestos\admin_view.ctp:64
+#: \views\puestos\view.ctp:53
+#: \views\usuarios\admin_view.ctp:144
+#: \views\usuarios\view.ctp:144
+msgid "Nomina"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:65
+#: \views\departamentos\view.ctp:65
+#: \views\grupos\admin_view.ctp:70
+#: \views\grupos\view.ctp:65
+#: \views\plazas\admin_view.ctp:149
+#: \views\plazas\view.ctp:149
+#: \views\puestos\admin_view.ctp:65
+#: \views\puestos\view.ctp:54
+#: \views\usuarios\admin_view.ctp:149
+#: \views\usuarios\view.ctp:149
+msgid "No Seguro Social"
+msgstr ""
+
+#: \views\departamentos\admin_view.ctp:66
+#: \views\departamentos\view.ctp:66
+#: \views\grupos\admin_view.ctp:71
+#: \views\grupos\view.ctp:66
+#: \views\plazas\admin_view.ctp:150
+#: \views\plazas\view.ctp:150
+#: \views\puestos\admin_view.ctp:66
+#: \views\puestos\view.ctp:55
+#: \views\usuarios\admin_view.ctp:154
+#: \views\usuarios\view.ctp:154
+msgid "Fecha Ingreso"
+msgstr ""
+
+#: \views\estados\add.ctp:4
+#: \views\estados\admin_add.ctp:4
+msgid "Add Estado"
+msgstr ""
+
+#: \views\estados\add.ctp:8;19
+#: \views\estados\admin_add.ctp:19
+#: \views\estados\admin_edit.ctp:21
+#: \views\estados\admin_index.ctp:72
+#: \views\estados\admin_view.ctp:53
+#: \views\estados\edit.ctp:21
+#: \views\estados\index.ctp:64
+#: \views\estados\view.ctp:53
+#: \views\paises\admin_index.ctp:66
+#: \views\paises\admin_view.ctp:46
+#: \views\paises\index.ctp:66
+#: \views\paises\view.ctp:46
+msgid "New Pais"
+msgstr ""
+
+#: \views\estados\add.ctp:10;18
+#: \views\estados\admin_add.ctp:18
+#: \views\estados\admin_edit.ctp:20
+#: \views\estados\admin_index.ctp:71
+#: \views\estados\admin_view.ctp:52
+#: \views\estados\edit.ctp:20
+#: \views\estados\index.ctp:63
+#: \views\estados\view.ctp:52
+#: \views\paises\add.ctp:13
+#: \views\paises\admin_add.ctp:16
+#: \views\paises\admin_edit.ctp:18
+#: \views\paises\admin_view.ctp:45
+#: \views\paises\edit.ctp:18
+#: \views\paises\view.ctp:45
+msgid "List Paises"
+msgstr ""
+
+#: \views\estados\add.ctp:17
+#: \views\estados\admin_add.ctp:17
+#: \views\estados\admin_edit.ctp:19
+#: \views\estados\admin_view.ctp:50
+#: \views\estados\edit.ctp:19
+#: \views\estados\view.ctp:50
+#: \views\paises\add.ctp:14
+#: \views\paises\admin_add.ctp:17
+#: \views\paises\admin_edit.ctp:19
+#: \views\paises\admin_index.ctp:67
+#: \views\paises\admin_view.ctp:47
+#: \views\paises\edit.ctp:19
+#: \views\paises\index.ctp:67
+#: \views\paises\view.ctp:47
+msgid "List Estados"
+msgstr ""
+
+#: \views\estados\add.ctp:20
+#: \views\estados\admin_add.ctp:20
+#: \views\estados\admin_edit.ctp:22
+#: \views\estados\admin_index.ctp:73
+#: \views\estados\admin_view.ctp:54
+#: \views\estados\edit.ctp:22
+#: \views\estados\index.ctp:65
+#: \views\estados\view.ctp:54
+msgid "List Ciudades"
+msgstr ""
+
+#: \views\estados\add.ctp:21
+#: \views\estados\admin_add.ctp:21
+#: \views\estados\admin_edit.ctp:23
+#: \views\estados\admin_index.ctp:74
+#: \views\estados\admin_view.ctp:55;102
+#: \views\estados\edit.ctp:23
+#: \views\estados\index.ctp:66
+#: \views\estados\view.ctp:55;102
+msgid "New Ciudad"
+msgstr ""
+
+#: \views\estados\admin_edit.ctp:4
+#: \views\estados\admin_view.ctp:48
+#: \views\estados\edit.ctp:4
+#: \views\estados\view.ctp:48
+msgid "Edit Estado"
+msgstr ""
+
+#: \views\estados\admin_index.ctp:2
+#: \views\estados\index.ctp:2
+msgid "Estados"
+msgstr ""
+
+#: \views\estados\admin_index.ctp:70
+#: \views\estados\admin_view.ctp:51
+#: \views\estados\index.ctp:62
+#: \views\estados\view.ctp:51
+#: \views\paises\add.ctp:15
+#: \views\paises\admin_add.ctp:18
+#: \views\paises\admin_edit.ctp:20
+#: \views\paises\admin_index.ctp:68
+#: \views\paises\admin_view.ctp:48;95
+#: \views\paises\edit.ctp:20
+#: \views\paises\index.ctp:68
+#: \views\paises\view.ctp:48;95
+msgid "New Estado"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:14
+#: \views\estados\view.ctp:14
+#: \views\paises\admin_view.ctp:2;9
+#: \views\paises\view.ctp:2;9
+msgid "Pais"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:19;66
+#: \views\estados\view.ctp:19;66
+#: \views\paises\admin_view.ctp:14;59
+#: \views\paises\view.ctp:14;59
+msgid "Created Id"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:24;67
+#: \views\estados\view.ctp:24;67
+#: \views\grupos\admin_view.ctp:14
+#: \views\grupos\view.ctp:9
+#: \views\paises\admin_view.ctp:19;60
+#: \views\paises\view.ctp:19;60
+msgid "Created"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:29;68
+#: \views\estados\view.ctp:29;68
+#: \views\paises\admin_view.ctp:24;61
+#: \views\paises\view.ctp:24;61
+msgid "Modified Id"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:34;69
+#: \views\estados\view.ctp:34;69
+#: \views\grupos\admin_view.ctp:19
+#: \views\grupos\view.ctp:14
+#: \views\paises\admin_view.ctp:29;62
+#: \views\paises\view.ctp:29;62
+msgid "Modified"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:49
+#: \views\estados\view.ctp:49
+msgid "Delete Estado"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:59
+#: \views\estados\view.ctp:59
+msgid "Related Ciudades"
+msgstr ""
+
+#: \views\estados\admin_view.ctp:65
+#: \views\estados\view.ctp:65
+msgid "Estado Id"
+msgstr ""
+
+#: \views\grupos\add.ctp:4
+#: \views\grupos\admin_add.ctp:4
+msgid "Add Grupo"
+msgstr ""
+
+#: \views\grupos\add.ctp:13
+#: \views\grupos\admin_add.ctp:13
+#: \views\grupos\admin_edit.ctp:15
+#: \views\grupos\admin_view.ctp:30
+#: \views\grupos\edit.ctp:15
+#: \views\grupos\view.ctp:25
+#: \views\usuarios\add.ctp:23;62
+#: \views\usuarios\admin_add.ctp:50
+#: \views\usuarios\admin_edit.ctp:52
+#: \views\usuarios\admin_index.ctp:173
+#: \views\usuarios\admin_view.ctp:178
+#: \views\usuarios\edit.ctp:52
+#: \views\usuarios\index.ctp:169
+#: \views\usuarios\view.ctp:174
+msgid "List Grupos"
+msgstr ""
+
+#: \views\grupos\admin_edit.ctp:4
+#: \views\grupos\admin_view.ctp:28
+#: \views\grupos\edit.ctp:4
+#: \views\grupos\view.ctp:23
+msgid "Edit Grupo"
+msgstr ""
+
+#: \views\grupos\admin_index.ctp:2
+#: \views\grupos\index.ctp:2
+msgid "Grupos"
+msgstr ""
+
+#: \views\grupos\admin_index.ctp:54
+#: \views\grupos\admin_view.ctp:31
+#: \views\grupos\index.ctp:54
+#: \views\grupos\view.ctp:26
+#: \views\usuarios\add.ctp:21;63
+#: \views\usuarios\admin_add.ctp:51
+#: \views\usuarios\admin_edit.ctp:53
+#: \views\usuarios\admin_index.ctp:174
+#: \views\usuarios\admin_view.ctp:179
+#: \views\usuarios\edit.ctp:53
+#: \views\usuarios\index.ctp:170
+#: \views\usuarios\view.ctp:175
+msgid "New Grupo"
+msgstr ""
+
+#: \views\grupos\admin_view.ctp:2
+#: \views\grupos\view.ctp:2
+#: \views\usuarios\admin_view.ctp:34
+#: \views\usuarios\view.ctp:34
+msgid "Grupo"
+msgstr ""
+
+#: \views\grupos\admin_view.ctp:29
+#: \views\grupos\view.ctp:24
+msgid "Delete Grupo"
+msgstr ""
+
+#: \views\paises\add.ctp:4
+#: \views\paises\admin_add.ctp:4
+msgid "Add Pais"
+msgstr ""
+
+#: \views\paises\admin_edit.ctp:4
+#: \views\paises\admin_view.ctp:43
+#: \views\paises\edit.ctp:4
+#: \views\paises\view.ctp:43
+msgid "Edit Pais"
+msgstr ""
+
+#: \views\paises\admin_index.ctp:2
+#: \views\paises\index.ctp:2
+msgid "Paises"
+msgstr ""
+
+#: \views\paises\admin_view.ctp:44
+#: \views\paises\view.ctp:44
+msgid "Delete Pais"
+msgstr ""
+
+#: \views\paises\admin_view.ctp:52
+#: \views\paises\view.ctp:52
+msgid "Related Estados"
+msgstr ""
+
+#: \views\paises\admin_view.ctp:58
+#: \views\paises\view.ctp:58
+#: \views\plazas\admin_view.ctp:40
+#: \views\plazas\view.ctp:40
+msgid "Pais Id"
+msgstr ""
+
+#: \views\plazas\add.ctp:4
+#: \views\plazas\admin_add.ctp:4
+msgid "Add Plaza"
+msgstr ""
+
+#: \views\plazas\add.ctp:13
+#: \views\plazas\admin_add.ctp:14
+#: \views\plazas\admin_edit.ctp:16
+#: \views\plazas\admin_view.ctp:25
+#: \views\plazas\edit.ctp:16
+#: \views\plazas\view.ctp:25
+#: \views\usuarios\add.ctp:19;60
+#: \views\usuarios\admin_add.ctp:48
+#: \views\usuarios\admin_edit.ctp:50
+#: \views\usuarios\admin_index.ctp:171
+#: \views\usuarios\admin_view.ctp:176
+#: \views\usuarios\edit.ctp:50
+#: \views\usuarios\index.ctp:167
+#: \views\usuarios\view.ctp:172
+msgid "List Plazas"
+msgstr ""
+
+#: \views\plazas\add.ctp:14
+#: \views\plazas\admin_add.ctp:15
+#: \views\plazas\admin_edit.ctp:17
+#: \views\plazas\admin_index.ctp:51
+#: \views\plazas\admin_view.ctp:27
+#: \views\plazas\edit.ctp:17
+#: \views\plazas\index.ctp:51
+#: \views\plazas\view.ctp:27
+msgid "List Clientes"
+msgstr ""
+
+#: \views\plazas\add.ctp:15
+#: \views\plazas\admin_add.ctp:16
+#: \views\plazas\admin_edit.ctp:18
+#: \views\plazas\admin_index.ctp:52
+#: \views\plazas\admin_view.ctp:28;111
+#: \views\plazas\edit.ctp:18
+#: \views\plazas\index.ctp:52
+#: \views\plazas\view.ctp:28;111
+msgid "New Cliente"
+msgstr ""
+
+#: \views\plazas\admin_edit.ctp:4
+#: \views\plazas\admin_view.ctp:23
+#: \views\plazas\edit.ctp:4
+#: \views\plazas\view.ctp:23
+msgid "Edit Plaza"
+msgstr ""
+
+#: \views\plazas\admin_index.ctp:2
+#: \views\plazas\index.ctp:2
+msgid "Plazas"
+msgstr ""
+
+#: \views\plazas\admin_index.ctp:50
+#: \views\plazas\admin_view.ctp:26
+#: \views\plazas\index.ctp:50
+#: \views\plazas\view.ctp:26
+#: \views\usuarios\add.ctp:17;61
+#: \views\usuarios\admin_add.ctp:49
+#: \views\usuarios\admin_edit.ctp:51
+#: \views\usuarios\admin_index.ctp:172
+#: \views\usuarios\admin_view.ctp:177
+#: \views\usuarios\edit.ctp:51
+#: \views\usuarios\index.ctp:168
+#: \views\usuarios\view.ctp:173
+msgid "New Plaza"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:2
+#: \views\plazas\view.ctp:2
+#: \views\usuarios\admin_view.ctp:29
+#: \views\usuarios\view.ctp:29
+msgid "Plaza"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:24
+#: \views\plazas\view.ctp:24
+msgid "Delete Plaza"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:34
+#: \views\plazas\view.ctp:34
+msgid "Related Clientes"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:39
+#: \views\plazas\view.ctp:39
+msgid "Contacto Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:41
+#: \views\plazas\view.ctp:41
+msgid "Sucursal Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:43
+#: \views\plazas\view.ctp:43
+msgid "Usuario Modificacion Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:44
+#: \views\plazas\view.ctp:44
+msgid "Vendedor Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:45
+#: \views\plazas\view.ctp:45
+msgid "Recepcion Material Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:46
+#: \views\plazas\view.ctp:46
+msgid "Recepcion Factura Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:47
+#: \views\plazas\view.ctp:47
+msgid "Entrega Cheque Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:48
+#: \views\plazas\view.ctp:48
+msgid "Usuario Creacion Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:49
+#: \views\plazas\view.ctp:49
+msgid "Agente Id"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:50
+#: \views\plazas\view.ctp:50
+msgid "Nombre Comercial"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:52
+#: \views\plazas\view.ctp:52
+msgid "Rfc"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:56
+#: \views\plazas\view.ctp:56
+msgid "Razon Social"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:60
+#: \views\plazas\view.ctp:60
+msgid "Comentarios"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:61
+#: \views\plazas\view.ctp:61
+msgid "Fecha Registro"
+msgstr ""
+
+#: \views\plazas\admin_view.ctp:62
+#: \views\plazas\view.ctp:62
+msgid "Status"
+msgstr ""
+
+#: \views\puestos\add.ctp:4
+#: \views\puestos\admin_add.ctp:4
+msgid "Add Puesto"
+msgstr ""
+
+#: \views\puestos\add.ctp:14
+#: \views\puestos\admin_add.ctp:14
+#: \views\puestos\admin_edit.ctp:16
+#: \views\puestos\admin_view.ctp:25
+#: \views\puestos\edit.ctp:16
+#: \views\puestos\view.ctp:15
+#: \views\usuarios\add.ctp:11;56
+#: \views\usuarios\admin_add.ctp:44
+#: \views\usuarios\admin_edit.ctp:46
+#: \views\usuarios\admin_index.ctp:167
+#: \views\usuarios\admin_view.ctp:172
+#: \views\usuarios\edit.ctp:46
+#: \views\usuarios\index.ctp:163
+#: \views\usuarios\view.ctp:168
+msgid "List Puestos"
+msgstr ""
+
+#: \views\puestos\admin_edit.ctp:4
+#: \views\puestos\admin_view.ctp:23
+#: \views\puestos\edit.ctp:4
+#: \views\puestos\view.ctp:13
+msgid "Edit Puesto"
+msgstr ""
+
+#: \views\puestos\admin_index.ctp:2
+#: \views\puestos\index.ctp:2
+msgid "Puestos"
+msgstr ""
+
+#: \views\puestos\admin_index.ctp:50
+#: \views\puestos\admin_view.ctp:26
+#: \views\puestos\index.ctp:46
+#: \views\puestos\view.ctp:16
+#: \views\usuarios\add.ctp:9;57
+#: \views\usuarios\admin_add.ctp:45
+#: \views\usuarios\admin_edit.ctp:47
+#: \views\usuarios\admin_index.ctp:168
+#: \views\usuarios\admin_view.ctp:173
+#: \views\usuarios\edit.ctp:47
+#: \views\usuarios\index.ctp:164
+#: \views\usuarios\view.ctp:169
+msgid "New Puesto"
+msgstr ""
+
+#: \views\puestos\admin_view.ctp:2
+#: \views\puestos\view.ctp:2
+#: \views\usuarios\admin_view.ctp:19
+#: \views\usuarios\view.ctp:19
+msgid "Puesto"
+msgstr ""
+
+#: \views\puestos\admin_view.ctp:24
+#: \views\puestos\view.ctp:14
+msgid "Delete Puesto"
+msgstr ""
+
+#: \views\usuarios\add.ctp:4
+msgid "Agregar Usuario"
+msgstr ""
+
+#: \views\usuarios\admin_add.ctp:4
+msgid "Add Usuario"
+msgstr ""
+
+#: \views\usuarios\admin_edit.ctp:4
+#: \views\usuarios\admin_view.ctp:168
+#: \views\usuarios\edit.ctp:4
+#: \views\usuarios\view.ctp:164
+msgid "Edit Usuario"
+msgstr ""
+
+#: \views\usuarios\admin_index.ctp:2
+#: \views\usuarios\index.ctp:2
+msgid "Usuarios"
+msgstr ""
+
+#: \views\usuarios\admin_view.ctp:2
+#: \views\usuarios\view.ctp:2
+msgid "Usuario"
+msgstr ""
+
+#: \views\usuarios\admin_view.ctp:169
+#: \views\usuarios\view.ctp:165
+msgid "Delete Usuario"
+msgstr ""
+
+#: \views\usuarios\login.ctp:5
+msgid "Login"
+msgstr ""
+
+#: \webroot\test.php:98
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
